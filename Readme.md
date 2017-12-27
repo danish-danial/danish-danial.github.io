@@ -1,3 +1,4 @@
 # [Danish Danial Zurkanain](danishdanialzurkanain.github.io)
 
-![Example](Searchbar.gif)
+## A website that hosted on GitHub
+
