@@ -1,3 +1,3 @@
 # [Danish Danial Zurkanain](danishdanialzurkanain.github.io)
 
-![Example](SearchBar.gif)
+![Example](Searchbar.gif)
